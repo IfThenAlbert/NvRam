@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NvRam</string>
+    <string name="title_activity_nv_ram_map_screen">NvRamMapScreen</string>
+
+    <!-- DB -->
+    <string name="database_id">yaMAq4slwkTrSfn4s6Mq8rC30hBdMS4B9IAIl5ch</string>
+    <string name="database_client">ZArFAjjTWItOzsbK5w466vuUWUGCxK06VVSo38Wu</string>
+    <string name="database_server">https://parseapi.back4app.com/</string>
+</resources>
